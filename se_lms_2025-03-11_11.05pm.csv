@@ -1,0 +1,37 @@
+Key,Issue Type,Parent,Summary,Status,Assignee,Sprint,Start date,Inferred start date,Due date,Inferred due date,Issue color
+SE-1,Epic,,WHISLIST,To Do,,,3/11/2025,3/11/2025,1/2/2026,2/2/2030,purple
+SE-8,Epic,,Functional Requirements,To Do,,,3/11/2025,3/11/2025,1/3/2026,2/3/2030,purple
+SE-13,Epic,,Data Requirements,To Do,,,3/11/2025,3/11/2025,1/4/2026,2/4/2030,purple
+SE-9,Story,SE-13,"FR01: The system should store user profiles, including name, email, and role (student/instructor/admin).",To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/5/2026,2/5/2030,purple
+SE-10,Story,SE-13,"FR02: Course materials (Lecture Notes, quizzes,Assignments) should be uploaded, stored, and retrieved by students.",To Do,Umar Farooq,,3/11/2025,3/11/2025,1/6/2026,2/6/2030,purple
+SE-11,Story,SE-13,"FR03: Student progress, grades, and attendance should be automatically updated after completing quizzes, assignments, or attending classes.",To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/7/2026,2/7/2030,purple
+SE-12,Story,SE-13,FR04: The system should allow instructors to export reports on student performance in CSV/PDF formats.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/8/2026,2/8/2030,purple
+SE-27,Story,SE-13,FR05: Students should be able to enroll in and drop courses dynamically.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/9/2026,2/9/2030,purple
+SE-18,Epic,,Interface Requirements,To Do,,,3/11/2025,3/11/2025,1/10/2026,2/10/2030,purple
+SE-14,Story,SE-18,"FR06: The LMS should have a dashboard for students, instructors, and admins with relevant stats.",To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/11/2026,2/11/2030,purple
+SE-15,Story,SE-18,FR07: The interface should support dark mode and light mode for better user experience.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/12/2026,2/12/2030,purple
+SE-16,Story,SE-18,FR08: Course content should be displayed in a structured format with a navigation bar.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/13/2026,2/13/2030,purple
+SE-17,Story,SE-18,"FR09: The system should provide a search bar to allow users to quickly find courses, materials, or discussions.",To Do,Umar Farooq,,3/11/2025,3/11/2025,1/14/2026,2/14/2030,purple
+SE-19,Epic,,"FR09: Users should be able to customize their profiles, including profile pictures and bios.",To Do,,,3/11/2025,3/11/2025,1/15/2026,2/15/2030,purple
+SE-21,Epic,,FR11: Students should be able to set learning goals and receive progress reminders.,To Do,,,3/11/2025,3/11/2025,1/16/2026,2/16/2030,purple
+SE-26,Epic,,Personalization Requirements,To Do,,,3/11/2025,3/11/2025,1/17/2026,2/17/2030,purple
+SE-22,Story,SE-26,"FR10: Users should be able to customize their profiles, including profile pictures and bios.",To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/18/2026,2/18/2030,purple
+SE-23,Story,SE-26,FR11: The system should recommend courses based on past enrollments and require students to repeat any failed subjects.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/19/2026,2/19/2030,purple
+SE-24,Story,SE-26,FR12: Students should be able to set learning goals and receive progress reminders.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/20/2026,2/20/2030,purple
+SE-25,Story,SE-26,"FR13: Users should be able to customize notification settings (email, SMS, or in-app alerts).",To Do,Umar Farooq,,3/11/2025,3/11/2025,1/21/2026,2/21/2030,purple
+SE-31,Epic,,Transactional Requirements,To Do,,,3/11/2025,3/11/2025,1/22/2026,2/22/2030,purple
+SE-28,Story,SE-31,"FR14: Instructors should be able to create, update, and delete courses.",To Do,Umar Farooq,,3/11/2025,3/11/2025,1/23/2026,2/23/2030,purple
+SE-29,Story,SE-31,FR15: The system should support secure payments for premium courses using cash or credit/debit cards.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/24/2026,2/24/2030,purple
+SE-30,Story,SE-31,FR16: A feedback system should allow students to rate courses and provide reviews after completion.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/25/2026,2/25/2030,purple
+SE-43,Story,SE-31,"FR17: Instructors should be able to manually mark student attendance for each class session, and the system should store and update attendance records in real time.",To Do,,,3/11/2025,3/11/2025,1/26/2026,2/26/2030,purple
+SE-36,Epic,,Quality Requirements,To Do,,,3/11/2025,3/11/2025,1/27/2026,2/27/2030,purple
+SE-32,Story,SE-36,NFR01: The system should be able to handle at least 500 concurrent users without any lag.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/28/2026,2/28/2030,purple
+SE-33,Story,SE-36,NFR02: Page load time should not exceed 2 seconds under normal conditions.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/29/2026,3/1/2030,purple
+SE-34,Story,SE-36,"NFR03: The system should be available and operational 99.9% of the time, ensuring minimal downtime.",To Do,Ahtisham khan,,3/11/2025,3/11/2025,1/30/2026,3/2/2030,purple
+SE-35,Story,SE-36,NFR04: Data should be encrypted using AES-256 to ensure security of user information.,To Do,Umar Farooq,,3/11/2025,3/11/2025,1/31/2026,3/3/2030,purple
+SE-42,Story,SE-36,NFR05: Add a privacy policy page explaining how data is stored and used.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,2/1/2026,3/4/2030,purple
+SE-41,Epic,,Project Constraints,To Do,,,3/11/2025,3/11/2025,2/2/2026,3/5/2030,purple
+SE-37,Story,SE-41,NFR06: The LMS must be developed and deployed within 6 months.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,2/3/2026,3/6/2030,purple
+SE-38,Story,SE-41,NFR07: The system must comply with GDPR(General Data Protection Regulation) and FERPA (Family Educational Rights and Privacy Act) regulations for data privacy.,To Do,Umar Farooq,,3/11/2025,3/11/2025,2/4/2026,3/7/2030,purple
+SE-39,Story,SE-41,NFR08: The LMS should be accessible on both mobile and desktop devices.,To Do,Ahtisham khan,,3/11/2025,3/11/2025,2/5/2026,3/8/2030,purple
+SE-40,Story,SE-41,NFR09: The system must be implemented using a scalable cloud-based architecture to support future growth.,To Do,Umar Farooq,,3/11/2025,3/11/2025,2/6/2026,3/9/2030,purple
